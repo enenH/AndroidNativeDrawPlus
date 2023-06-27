@@ -1,0 +1,4 @@
+su
+chmod 777 /data/local/tmp/entry
+/data/local/tmp/entry
+exit
